@@ -1,4 +1,4 @@
-# Visual_Sudoku_Solver
+# Visual Sudoku Solver
 
 Coded in Python utilizing Pygame
 
