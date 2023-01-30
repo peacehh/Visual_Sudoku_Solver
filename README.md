@@ -1,6 +1,10 @@
 # Visual_Sudoku_Solver
 
 Coded in Python utilizing PyGame
+
+Try on Replit.com
+https://replit.com/@peaceHH/Sukoku-Solver-with-Visualization#main.py
+
 ## Error Highlighting
 
 Highlights any squares where an invalid nubmer is entered with a red border
