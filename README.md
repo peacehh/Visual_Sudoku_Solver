@@ -3,7 +3,7 @@
 Coded in Python utilizing PyGame
 
 Try on Replit.com
-https://replit.com/@peaceHH/Sukoku-Solver-with-Visualization#main.py
+https://replit.com/@peaceHH/Sukoku-Solver#main.py
 
 ## Error Highlighting
 
