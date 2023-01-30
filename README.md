@@ -7,7 +7,7 @@ https://replit.com/@peaceHH/Sukoku-Solver#main.py
 
 ## Error Highlighting
 
-Highlights any squares where an invalid nubmer is entered with a red border
+Highlights any squares where an invalid number is entered with a red border
 
 <img src="images/sudoku_gameplay.png" alt="drawing" width="300"/>
 
