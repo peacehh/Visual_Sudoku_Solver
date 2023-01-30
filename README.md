@@ -1,9 +1,18 @@
-Visual_Sudoku_Solver
+# Visual_Sudoku_Solver
 
+Coded in Python utilizing PyGame
+## Error Highlighting
 
-Error highlighting feature for manual play.
+Highlights any squares where an invalid nubmer is entered with a red border
 
-Interactive display shows the computer solving the board utilizing a backtracking algorithm.
+<img src="images/sudoku_gameplay.png" alt="drawing" width="300"/>
 
+## Solver
+
+Interactive display shows the computer solving the board utilizing a backtracking algorithm. Backtracked sqares are colored red
+
+Beginning | Middle | Solved
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="images/sudoku_beginning.png" alt="drawing" width="300"/> | <img src="images/sudoku_middle.png" alt="drawing" width="300"/> | <img src="images/sudoku_end.png" alt="drawing" width="300"/> 
 
 
