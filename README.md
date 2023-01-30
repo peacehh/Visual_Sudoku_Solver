@@ -1,8 +1,8 @@
 # Visual_Sudoku_Solver
 
-Coded in Python utilizing PyGame
+Coded in Python utilizing Pygame
 
-Try on Replit.com
+Try on Replit (can be slow)
 https://replit.com/@peaceHH/Sukoku-Solver#main.py
 
 ## Error Highlighting
